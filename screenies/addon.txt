@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"		"Screeinies"
+	"version"		"1.0"
+	"author_name"	"Boopington"
+	"info"		"Invade peoples privacy in the name of security."
+}
